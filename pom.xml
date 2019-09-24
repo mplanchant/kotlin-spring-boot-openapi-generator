@@ -99,7 +99,7 @@
                             <generatorName>kotlin-spring</generatorName>
                             <inputSpec>${project.basedir}/src/main/resources/oas/petstore.yaml</inputSpec>
                             <packageName>uk.co.logiccache.web</packageName>
-							<modelPackage>uk.co.logiccache.web.dto</modelPackage>
+                            <modelPackage>uk.co.logiccache.web.dto</modelPackage>
                             <apiPackage>uk.co.logiccache.web.api</apiPackage>
                             <generateSupportingFiles>false</generateSupportingFiles>
                             <configOptions>
