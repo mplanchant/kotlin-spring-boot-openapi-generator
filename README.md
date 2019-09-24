@@ -1,0 +1,1 @@
+# kotlin-spring-boot-openapi-generator
